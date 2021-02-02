@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+crypto_data.csv
 
 # C extensions
 *.so
